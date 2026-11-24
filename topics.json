@@ -1,0 +1,89 @@
+[
+  {
+    "id": "windows_god_mode",
+    "title": "Windows ka Secret GOD MODE! 😱 200+ Hidden Settings Unlocked",
+    "category": "WINDOWS SECRET",
+    "tags": ["#shorts", "#tech", "#windows11", "#computertricks", "#hindi"],
+    "description": "Unlock 200+ hidden settings in Windows 10/11 using God Mode! Subscribe to TechSparks Hindi for daily tricks.",
+    "beats": [
+      {
+        "text": "क्या आपको पता है विंडोज़ में एक सीक्रेट गॉड मोड होता है?",
+        "display": "WINDOWS KA SECRET GOD MODE!"
+      },
+      {
+        "text": "डेस्कटॉप पर राइट क्लिक करके नया फोल्डर बनाइए।",
+        "display": "Create a New Folder on Desktop"
+      },
+      {
+        "text": "और इस फोल्डर का नाम गॉड मोड कोड से रीनेम कर दीजिए।",
+        "display": "Rename it with GOD MODE Code!"
+      },
+      {
+        "text": "अब इस फोल्डर को खोलते ही विंडोज़ की 200 से ज़्यादा सीक्रेट सेटिंग्स एक जगह मिल जाएंगी।",
+        "display": "BOOM! 200+ Hidden Settings in 1 Place!"
+      },
+      {
+        "text": "यह कोड डिस्क्रिप्शन में दिया है। ऐसी ही कमाल ट्रिक्स के लिए अभी सब्सक्राइब करें।",
+        "display": "LIKE & SUBSCRIBE TechSparks Hindi"
+      }
+    ]
+  },
+  {
+    "id": "excel_flash_fill",
+    "title": "Excel Trick jo Office me aapka 2 ghanta bacha legi! 🔥 (Ctrl + E)",
+    "category": "EXCEL MAGIC",
+    "tags": ["#shorts", "#excel", "#office", "#productivity", "#hindi"],
+    "description": "Separate First & Last Names in Excel with 1-click using Ctrl + E Flash Fill! Subscribe to TechSparks Hindi.",
+    "beats": [
+      {
+        "text": "एक्सेल में फर्स्ट नेम और लास्ट नेम अलग करने में घंटों बर्बाद मत कीजिए।",
+        "display": "Stop Wasting Hours in Excel!"
+      },
+      {
+        "text": "सिर्फ पहली रो में पहला नाम खुद टाइप कीजिए।",
+        "display": "Type First Name in 1st Row"
+      },
+      {
+        "text": "और नीचे वाली सेल में जाकर कीबोर्ड पर दबाइए कंट्रोल प्लस E.",
+        "display": "PRESS: Ctrl + E\n(Excel Flash Fill!)"
+      },
+      {
+        "text": "एक सेकंड में पूरे हज़ार नामों का डेटा अपने आप अलग हो जाएगा।",
+        "display": "1000+ Names Separated in 1 Second!"
+      },
+      {
+        "text": "ऐसे ही शानदार एक्सेल हैक्स के लिए टेक स्पार्क्स हिंदी को सब्सक्राइब करें।",
+        "display": "LIKE & SUBSCRIBE TechSparks Hindi"
+      }
+    ]
+  },
+  {
+    "id": "wifi_password",
+    "title": "Apne Computer se Connected Wi-Fi Password Kaise Dekhein? 🤫",
+    "category": "PC TRICK",
+    "tags": ["#shorts", "#wifi", "#hacks", "#tech", "#hindi"],
+    "description": "Find connected Wi-Fi password in CMD using 1 simple command! Subscribe to TechSparks Hindi.",
+    "beats": [
+      {
+        "text": "अगर आप अपने कनेक्टेड वाई-फाई का पासवर्ड भूल गए हैं, तो यह ट्रिक देखिए।",
+        "display": "Forgot Connected Wi-Fi Password?"
+      },
+      {
+        "text": "कीबोर्ड पर दबाइए विंडोज़ प्लस R, और सीएमडी टाइप करके एंटर कीजिए।",
+        "display": "Press Windows + R -> CMD"
+      },
+      {
+        "text": "अब यह सिंपल कमांड टाइप कीजिए: netsh wlan show profile name key clear.",
+        "display": "Type Command with key=clear"
+      },
+      {
+        "text": "सिक्योरिटी सेटिंग्स में Key Content के सामने आपका असली पासवर्ड दिख जाएगा।",
+        "display": "Password Visible in Key Content!"
+      },
+      {
+        "text": "रोज़ाना ऐसी धमाकेदार टेक ट्रिक्स के लिए अभी सब्सक्राइब करें।",
+        "display": "LIKE & SUBSCRIBE TechSparks Hindi"
+      }
+    ]
+  }
+]
